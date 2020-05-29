@@ -21,6 +21,7 @@
         "height": 600
     },
     "dependencies": {
-        "gltfpack": "^0.14.0"
+        "gltfpack": "^0.14.0",
+        "vue": "^2.5.16"
     }
 }
